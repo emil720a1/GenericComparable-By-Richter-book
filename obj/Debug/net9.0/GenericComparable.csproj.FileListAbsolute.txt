@@ -1,0 +1,14 @@
+/home/oleh/projects/GenericComparable/obj/Debug/net9.0/GenericComparable.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleh/projects/GenericComparable/obj/Debug/net9.0/GenericComparable.AssemblyInfoInputs.cache
+/home/oleh/projects/GenericComparable/obj/Debug/net9.0/GenericComparable.AssemblyInfo.cs
+/home/oleh/projects/GenericComparable/obj/Debug/net9.0/GenericComparable.csproj.CoreCompileInputs.cache
+/home/oleh/projects/GenericComparable/bin/Debug/net9.0/GenericComparable
+/home/oleh/projects/GenericComparable/bin/Debug/net9.0/GenericComparable.deps.json
+/home/oleh/projects/GenericComparable/bin/Debug/net9.0/GenericComparable.runtimeconfig.json
+/home/oleh/projects/GenericComparable/bin/Debug/net9.0/GenericComparable.dll
+/home/oleh/projects/GenericComparable/bin/Debug/net9.0/GenericComparable.pdb
+/home/oleh/projects/GenericComparable/obj/Debug/net9.0/GenericComparable.dll
+/home/oleh/projects/GenericComparable/obj/Debug/net9.0/refint/GenericComparable.dll
+/home/oleh/projects/GenericComparable/obj/Debug/net9.0/GenericComparable.pdb
+/home/oleh/projects/GenericComparable/obj/Debug/net9.0/GenericComparable.genruntimeconfig.cache
+/home/oleh/projects/GenericComparable/obj/Debug/net9.0/ref/GenericComparable.dll
